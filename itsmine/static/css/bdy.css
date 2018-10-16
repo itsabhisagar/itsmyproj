@@ -1,0 +1,50 @@
+
+body
+{
+    font-family: "cursive";
+}
+.rowbody h1
+{
+    color: green;
+}
+a:hover
+{
+    text-decoration: none;
+    font-size: 30px;
+}
+.rowbody
+{
+    background-color: aqua;
+}
+.mainbody
+{
+    width: 800px;
+    height: 490px;
+    float: left;
+    /*background-color: blue;*/
+}
+.sidepane
+{
+    width: 200px;
+    height: 490px;
+    float: right;
+    /*background-color: orange;*/
+}
+.footer
+{
+    width: auto;
+    height: 30px;
+    float: bottom;
+    /*background-color: green;*/
+    footnote-display: compact;
+}
+.container {
+    /*background-color: azure;*/
+
+    width: 1350px;
+    height: 520px;
+}
+.nav-bar
+{
+    float: right;
+}
